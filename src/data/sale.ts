@@ -1,0 +1,1 @@
+export const N_CUSTOMERS: number = 10;
